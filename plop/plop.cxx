@@ -14,7 +14,7 @@ namespace plop
       throw invalid_argument ("empty name");
     }
 
-    o << "Hello, " << n << "! KIKOO LOL" << endl;
+    o << "Hello, " << n << "! KIKOO LOL!!!!!" << endl;
     o << "ROHOLOLOLOL";
   }
 }
