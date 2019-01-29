@@ -12,6 +12,6 @@ namespace plop
     if (n.empty ())
       throw invalid_argument ("empty name");
 
-    o << "Hello, " << n << '!' << endl;
+    o << "Hello, " << n << "! KIKOO LOL" << endl;
   }
 }
