@@ -1,0 +1,10 @@
+: 1
+name: plop
+version: 0.1.0-a.0.z
+summary: plop library
+license: TODO
+url: https://example.org/plop
+email: jlamotte@softbankrobotics.com
+depends: * build2 >= 0.8.0-
+depends: * bpkg >= 0.8.0-
+#depends: libhello ^1.0.0

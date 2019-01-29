@@ -1,0 +1,6 @@
+$out_root/
+{
+  include plop/
+}
+
+export $out_root/plop/$import.target
