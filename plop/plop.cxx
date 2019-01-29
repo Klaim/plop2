@@ -15,6 +15,6 @@ namespace plop
     }
 
     o << "Hello, " << n << "! KIKOO LOL!!!!!" << endl;
-    o << "ROHOLOLOLOL??";
+    o << "ROHOLOLOLOL?????";
   }
 }
